@@ -1,6 +1,16 @@
 #include <iostream>
 
 
+void initialize();
+
+void GetPlayerInput();
+void Update();
+void Render();
+
+void shutdown();
+
+
+
 int main()
 {
 
